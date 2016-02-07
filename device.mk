@@ -79,7 +79,7 @@ PRODUCT_PACKAGES += \
 
 # NFC config
 PRODUCT_PACKAGES += \
-    nfc_nci.aries
+    nfc_nci.pn54x.default
 
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREBUILT_DPI := xhdpi hdpi
